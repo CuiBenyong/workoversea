@@ -2,7 +2,7 @@
 title: React 虚拟 Dom
 date: 2023-11-10 14:35:00
 categories:
-  - Front end
+  - 前端
   - React
 tags:
   - 前端

@@ -2,7 +2,7 @@
 title: React Native 热更新及增量更新
 date: 2023-10-28 13:11:00
 categories:
-  - Front end
+  - 前端
   - RN
 tags:
   - RN

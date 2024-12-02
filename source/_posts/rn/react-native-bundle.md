@@ -2,7 +2,7 @@
 title: React Native 打包与拆包
 date: 2023-10-28 13:51:10
 categories:
-  - Front end
+  - 前端
   - RN
 tags:
   - RN

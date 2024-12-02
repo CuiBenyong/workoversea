@@ -2,7 +2,7 @@
 title: 大前端知识架构
 date: 2022-10-27 13:11:00
 categories:
-  - Front end
+  - 前端
 tags:
   - JavaScript
   - 前端

@@ -2,7 +2,7 @@
 title: Document 对象
 date: 2023-11-10 14:35:00
 categories:
-  - Front end
+  - 前端
   - DOM
 tags:
   - 前端

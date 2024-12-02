@@ -2,7 +2,7 @@
 title: 动态集合NodeLIst-HTMLCollection
 date: 2023-11-10 14:35:00
 categories:
-  - Front end
+  - 前端
   - DOM
 tags:
   - 前端

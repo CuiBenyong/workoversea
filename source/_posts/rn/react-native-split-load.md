@@ -2,7 +2,7 @@
 title: React Native 拆包加载
 date: 2023-10-28 14:31:00
 categories:
-  - Front end
+  - 前端
   - RN
 tags:
   - RN

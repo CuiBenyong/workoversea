@@ -2,7 +2,7 @@
 title: 隐藏属性
 date: 2023-10-28 14:35:00
 categories:
-  - Front end
+  - 前端
   - css
   - blog
 tags:

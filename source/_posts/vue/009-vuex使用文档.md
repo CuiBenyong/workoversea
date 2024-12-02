@@ -2,7 +2,7 @@
 title: Vuex 的使用
 date: 2023-11-10 14:35:00
 categories:
-  - Front end
+  - 前端
   - Vue
 tags:
   - 前端

@@ -2,7 +2,7 @@
 title: SCSS
 date: 2023-11-10 14:35:00
 categories:
-  - Front end
+  - 前端
   - css
   - less
 tags:

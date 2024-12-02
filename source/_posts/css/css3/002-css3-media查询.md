@@ -2,7 +2,7 @@
 title: CSS3 media查询
 date: 2023-10-28 14:35:00
 categories:
-  - Front end
+  - 前端
   - css
   - css3
 tags:

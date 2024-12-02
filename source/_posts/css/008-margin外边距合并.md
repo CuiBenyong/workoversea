@@ -2,7 +2,7 @@
 title: 大前端知识架构
 date: 2023-10-28 14:31:00
 categories:
-  - Front end
+  - 前端
   - css
 tags:
   - 前端
