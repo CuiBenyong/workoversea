@@ -1,6 +1,6 @@
 ---
 title: react常用语法
-date: 2023-11-10 14:35:00
+date: 2023-11-21 22:37:00
 categories:
   - 前端
   - React

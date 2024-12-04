@@ -1,10 +1,10 @@
 ---
 title: initial、inherit、unset
-date: 2023-10-28 14:35:00
+date: 2024-02-01 18:19:00
 categories:
   - 前端
   - css
-  - blog
+  - 技巧
 tags:
   - 前端
   - TypeScript

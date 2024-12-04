@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 玄一的博客
+title: WorkOverSea的博客
 subtitle: 探索前端技术的无尽可能性
-description: 玄一技术博客是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
+description: WorkOverSea技术博客是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
 keywords:
   - 前端开发
   - 技术博客
@@ -44,7 +44,6 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-  - google4cd21b0b8fe5bfc9.html
 
 # Writing
 new_post_name: :title.md # File name of new posts

@@ -1,6 +1,6 @@
 ---
 title: 动态集合NodeLIst-HTMLCollection
-date: 2023-11-10 14:35:00
+date: 2024-03-28 22:11:00
 categories:
   - 前端
   - DOM

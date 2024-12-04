@@ -1,6 +1,6 @@
 ---
 title: async/await
-date: 2023-11-10 14:35:00
+date: 2023-11-12 12:20:00
 categories:
   - 前端
   - ES6

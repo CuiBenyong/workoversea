@@ -1,10 +1,10 @@
 ---
 title: background 使用技巧
-date: 2023-10-28 14:35:00
+date: 2024-01-28 22:35:00
 categories:
   - 前端
   - css
-  - blog
+  - 技巧
 tags:
   - 前端
   - TypeScript

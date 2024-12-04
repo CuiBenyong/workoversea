@@ -1,6 +1,6 @@
 ---
 title: 手写Promise
-date: 2023-11-10 14:35:00
+date: 2023-11-18 21:39:00
 categories:
   - 前端
   - ES6

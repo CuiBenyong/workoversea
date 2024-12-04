@@ -1,6 +1,6 @@
 ---
 title: Promise
-date: 2023-11-10 14:35:00
+date: 2023-11-17 23:35:10
 categories:
   - 前端
   - ES6
