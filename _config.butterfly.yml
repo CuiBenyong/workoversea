@@ -43,11 +43,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg
+favicon: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/ad9eed22b1a4fc0401e981e2f99f88b7.jpeg
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg
+  img: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/ad9eed22b1a4fc0401e981e2f99f88b7.jpeg
   effect: true
 
 # Disable all banner image
