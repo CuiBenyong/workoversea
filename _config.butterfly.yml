@@ -924,6 +924,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
     - <meta name="google-adsense-account" content="ca-pub-4646365587591945">
+    - <meta name="google-site-verification" content="-YqkHJbELEIjp031F5AZhwO0FqGwIR8ZFGGulPpCLJA" />
   bottom:
     # - <script src="xxxx"></script>
 
