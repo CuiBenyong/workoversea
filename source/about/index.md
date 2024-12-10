@@ -19,6 +19,6 @@ date: 2023-07-16 15:54:03
 
 如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
 
-- 电子邮件： cuibenyong@gmail.com
+- 电子邮件： workoversea.ye@gmail.com
 
 感谢您访问我的网站！
